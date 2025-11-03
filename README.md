@@ -1,16 +1,17 @@
-## Hi there 👋
+## Hello, I'm Lucas Oliveira Caldas, an Information Systems student at the State University of Bahia.👋
 
-<!--
-**Lucasolical/Lucasolical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## These are my points of familiarity with programming languages.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+## Technologies I am currently learning
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="ros2" src="https://img.shields.io/badge/ROS2-2377b7?style=for-the-badge&logo=ros&logoColor=white">
+    <img align="center" alt="docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
+    <img align="center" alt="yolo" src="https://img.shields.io/badge/YOLO-1e90ff?style=for-the-badge&logoColor=black">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Flask-5C5CFA?style=for-the-badge&logo=flask&logoColor=white">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-E08A12?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
