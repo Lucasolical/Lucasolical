@@ -1,4 +1,4 @@
-## Hello, I'm Lucas Oliveira Caldas, an Information Systems student at the State University of Bahia.👋
+## Olá, meu nome é Lucas Oliveira Caldas, sou estudante de Sistemas de Informação na Universidade Estadual da Bahia..👋
 
 
 
@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasolical&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
-## Technologies I am currently learning
+## Essas são as linguagens que eu tenho mais familiaridade.
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="ros2" src="https://img.shields.io/badge/ROS2-2377b7?style=for-the-badge&logo=ros&logoColor=white">
